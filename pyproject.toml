@@ -13,10 +13,14 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.9"
 pytest = "^7.0"
+python-dateutil = "^2.9.0.post0"
+babel = "^2.16.0"
 
 [tool.poetry.group.dev.dependencies]
 poethepoet = "^0.31.1"
+pytest = "^7.0" 
 
 [tool.poe.tasks]
 install = "poetry install"
 check = "python -m py_compile medication_management/*.py"
+test = "pytest --maxfail=5 --disable-warnings --tb=short test/"

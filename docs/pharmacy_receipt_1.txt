@@ -1,0 +1,15 @@
+Pharmacy Receipt - Farmacia Italia  
+Cliente: Matteo Imbrosciano  
+Data: 15 Febbraio 2024
+
+Articolo              | Quantità (mg/ml) | Unità | Importo (Euro)
+----------------------------------------------------------------
+Sintrom               | 1 mg            |   1   |    €7.50
+Elidel                | 10 mg/g         |   1   |   €12.30
+Protopic              | 0.3 mg          |   1   |    €9.80
+Decloban              | 500 mic         |   1   |    €7.10
+Dolquine              | 200 mg          |   1   |   €10.60
+Hemovas               | 400 mg          |   1   |    €8.40
+
+----------------------------------------------------------------
+Totale: €55.70
